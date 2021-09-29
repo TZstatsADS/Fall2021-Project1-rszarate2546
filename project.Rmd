@@ -1,7 +1,8 @@
 ---
 output:
-  pdf_document: default
+  word_document: default
   html_document: default
+  pdf_document: default
 ---
 # God, women, and emotions: How present are referenced in the most prominent schools of philosophy?
 
