@@ -1,8 +1,14 @@
 God, women, and emotions: How present are referenced in the most prominent schools of philosophy?
 
-Introduction
+Introduction:
 
-Have you ever wondered how present God’s concept is in primary texts in the history of philosophy? In whatschools of philosophy are more recurrent references to God? What about the presence of words referencingwomen? What are the schools of philosophy that most recurrent mention words describing women? How is thebalance between men’s and women’s words? How is the balance of words referencing logic and emotions? Aunique and fascinating data set allowed us to explore the great texts in the history of philosophy.
+Have you ever wondered how present God’s concept is in primary texts in the history of philosophy? 
+In what schools of philosophy are more recurrent references to God? 
+What about the presence of words referencing women? 
+What are the schools of philosophy that most recurrent mention words describing women? 
+How is the balance between men’s and women’s words?
+How is the balance of words referencing logic and emotions? 
+
 --------------------------------------------------------
 Please follow the next steps:
 
