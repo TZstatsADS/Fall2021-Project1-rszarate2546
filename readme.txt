@@ -20,7 +20,7 @@ if (!require("ggplot2")) install.packages("ggplot2")
 pacman::p_load(pacman, party, psych, rio, tidyverse)
 
 
-***My project is the file Project.Rmd
+***My project is the file Project.Rmd (it takes around 20 minutes to run)
 ***See also pdf version (Project.knit.pdf)
 
 Thanks!
