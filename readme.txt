@@ -1,3 +1,15 @@
+God, women, and emotions: How present are referenced in the most prominent schools of philosophy?
+
+Introduction:
+
+Have you ever wondered how present God’s concept is in primary texts in the history of philosophy? 
+In what schools of philosophy are more recurrent references to God? 
+What about the presence of words referencing women? 
+What are the schools of philosophy that most recurrent mention words describing women? 
+How is the balance between men’s and women’s words?
+How is the balance of words referencing logic and emotions? 
+
+--------------------------------------------------------
 Please follow the next steps:
 
 1) Clean all files and data:
@@ -20,7 +32,7 @@ if (!require("ggplot2")) install.packages("ggplot2")
 pacman::p_load(pacman, party, psych, rio, tidyverse)
 
 
-***My project is the file Project.Rmd
+***My project is the file Project.Rmd (it takes around 20 minutes to run)
 ***See also pdf version (Project.knit.pdf)
 
 Thanks!
