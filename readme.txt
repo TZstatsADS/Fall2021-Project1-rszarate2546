@@ -1,4 +1,4 @@
-God, women, and emotions: How present arereferenced in the most prominent schools ofphilosophy?
+God, women, and emotions: How present are referenced in the most prominent schools of philosophy?
 
 
 Please follow the next steps:
