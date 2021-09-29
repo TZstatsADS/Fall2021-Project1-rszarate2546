@@ -21,3 +21,6 @@ pacman::p_load(pacman, party, psych, rio, tidyverse)
 
 
 ***My project is the file Project.Rmd
+***See also pdf version (Project.pdf)
+
+Thanks!
